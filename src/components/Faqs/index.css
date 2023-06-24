@@ -1,0 +1,22 @@
+/* Write your code here. */
+
+.main-container {
+  background-color: #9aa5b1;
+  min-height: 100vh;
+  padding: 60px;
+}
+
+.inside-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: 'Roboto';
+}
+
+.title {
+  color: #cb8805;
+  font-weight: bold;
+}
